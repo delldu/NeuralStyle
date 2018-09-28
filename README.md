@@ -41,6 +41,7 @@
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/003_stylized_015.jpg" width="360"/> | <img src="output/004_stylized_015.jpg" width="360"/> |
 
 **Example 3**
+
 | Style | <img src="input/content/005.jpg" width="360"/> | <img src="input/content/006.jpg" width="360"/> |
 | ----- | ----- | ----- |
 | <img src="input/style/001.jpg" width="128"/> | <img src="output/005_stylized_001.jpg" width="360"/> | <img src="output/006_stylized_001.jpg" width="360"/> |
@@ -60,6 +61,7 @@
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/005_stylized_015.jpg" width="360"/> | <img src="output/006_stylized_015.jpg" width="360"/> |
 
 **Example 4**
+
 | Style | <img src="input/content/007.jpg" width="360"/> | <img src="input/content/008.jpg" width="360"/> |
 | ----- | ----- | ----- |
 | <img src="input/style/001.jpg" width="128"/> | <img src="output/007_stylized_001.jpg" width="360"/> | <img src="output/008_stylized_001.jpg" width="360"/> |
@@ -79,6 +81,7 @@
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/007_stylized_015.jpg" width="360"/> | <img src="output/008_stylized_015.jpg" width="360"/> |
 
 **Example 5**
+
 | Style | <img src="input/content/009.jpg" width="360"/> | <img src="input/content/010.jpg" width="360"/> |
 | ----- | ----- | ----- |
 | <img src="input/style/001.jpg" width="128"/> | <img src="output/009_stylized_001.jpg" width="360"/> | <img src="output/010_stylized_001.jpg" width="360"/> |
@@ -98,6 +101,7 @@
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/009_stylized_015.jpg" width="360"/> | <img src="output/010_stylized_015.jpg" width="360"/> |
 
 **Example 6**
+
 | Style | <img src="input/content/011.jpg" width="360"/> | <img src="input/content/012.jpg" width="360"/> |
 | ----- | ----- | ----- |
 | <img src="input/style/001.jpg" width="128"/> | <img src="output/011_stylized_001.jpg" width="360"/> | <img src="output/012_stylized_001.jpg" width="360"/> |
@@ -115,6 +119,7 @@
 | <img src="input/style/013.jpg" width="128"/> | <img src="output/011_stylized_013.jpg" width="360"/> | <img src="output/012_stylized_013.jpg" width="360"/> |
 | <img src="input/style/014.jpg" width="128"/> | <img src="output/011_stylized_014.jpg" width="360"/> | <img src="output/012_stylized_014.jpg" width="360"/> |
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/011_stylized_015.jpg" width="360"/> | <img src="output/012_stylized_015.jpg" width="360"/> |
+
 
 ## Train
 
