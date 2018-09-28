@@ -146,3 +146,11 @@
 
 1. X. Huang and S. Belongie. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.", in ICCV, 2017.
 2. https://github.com/xunhuang1995/AdaIN-style
+
+## License
+
+NeuralStyle is released under the [Apache 2.0 license]
+
+## Chinese Document
+
+大师风范.
