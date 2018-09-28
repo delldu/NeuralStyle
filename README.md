@@ -1,7 +1,7 @@
 # Neural Style
 
 **Example 1**
-| Style | ![](input/content/001.jpg) | ![](input/content/002.jpg) |
+| Style | ![](input/content/001.jpg=720x) | ![](input/content/002.jpg=720x) |
 | ----- | ----- | ----- |
 | ![](input/style/001.jpg) | ![](output/001_stylized_001.jpg) | ![](output/002_stylized_001.jpg) |
 | ![](input/style/002.jpg) | ![](output/001_stylized_002.jpg) | ![](output/002_stylized_002.jpg) |
