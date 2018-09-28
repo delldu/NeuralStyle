@@ -1,5 +1,16 @@
 # Neural Style
 
+## Train
+
+`python train.py`
+
+## Demo
+
+`./demo.sh`
+
+**Spend: 1080P/s.**
+
+
 **Example 1**
 
 | Style                    | <img src="input/content/001.jpg" width="360"/>       | <img src="input/content/002.jpg" width="360"/>       |
@@ -119,18 +130,6 @@
 | <img src="input/style/013.jpg" width="128"/> | <img src="output/011_stylized_013.jpg" width="360"/> | <img src="output/012_stylized_013.jpg" width="360"/> |
 | <img src="input/style/014.jpg" width="128"/> | <img src="output/011_stylized_014.jpg" width="360"/> | <img src="output/012_stylized_014.jpg" width="360"/> |
 | <img src="input/style/015.jpg" width="128"/> | <img src="output/011_stylized_015.jpg" width="360"/> | <img src="output/012_stylized_015.jpg" width="360"/> |
-
-
-## Train
-
-`python train.py`
-
-## Demo
-
-`./demo.sh`
-
-**Spend: 1080P/s.**
-
 
 
 ## Requirements
