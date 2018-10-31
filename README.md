@@ -134,9 +134,9 @@
 
 ## Requirements
 
-- Python 3.6.0
+- Python 3.6.2
 
-- PyTorch 0.4.0
+- PyTorch 1.0.0
 
 - TorchVision 0.2.1
 
